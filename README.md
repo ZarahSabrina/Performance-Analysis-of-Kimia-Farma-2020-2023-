@@ -18,18 +18,19 @@ membantu dalam pengambilan keputusan bisnis yang berbasis data untuk meningkatka
    
    Visualisasi menunjukkan perubahan nett profit dari tahun ke tahun.
    
-4. Analisis Berdasarkan Provinsi
+3. Analisis Berdasarkan Provinsi
+   
    a. Top 10 Provinsi dengan Transaksi Tertinggi
 
    b. Top 10 Provinsi dengan Nett Sales Tertinggi
 
-5. Distribusi Total Profit di Seluruh Indonesia
+4. Distribusi Total Profit di Seluruh Indonesia
    
-7. Analisis Cabang dan Rating
+5. Analisis Cabang dan Rating
    
    Cabang dengan rating tertinggi tetapi memiliki transaksi rendah.
    
-9. Analisis Produk
+6. Analisis Produk
     
    Top 3 produk berdasarkan profitabilitas.
 
