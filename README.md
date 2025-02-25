@@ -1,19 +1,16 @@
 # Performance Analysis of Kimia Farma 2020-2023
 
-Repository ini berisi analisis data transaksi Kimia Farma dari tahun 2020 hingga 2023. Analisis ini mencakup eksplorasi data transaksi, profitabilitas, tren penjualan, dan evaluasi performa cabang serta produk yang dijual.
-
 ## Objective
 membantu dalam pengambilan keputusan bisnis yang berbasis data untuk meningkatkan efisiensi operasional dan profitabilitas Kimia Farma
 
 ## Analisis yang Dilakukan
 1. Analisis Transaksi dan Penjualan
-Total transaksi: 672.458
-Total pendapatan bersih (nett sales): 347,0 M
-Total profit bersih (nett profit): 98,5 M
-Rating rata-rata cabang: 4,45
-Tren Pendapatan 2020-2023
-
-2. Visualisasi menunjukkan perubahan nett profit dari tahun ke tahun.
+a. Total transaksi: 672.458
+b. Total pendapatan bersih (nett sales): 347,0 M
+c. Total profit bersih (nett profit): 98,5 M
+d. Rating rata-rata cabang: 4,45
+2. Tren Pendapatan 2020-2023
+   Visualisasi menunjukkan perubahan nett profit dari tahun ke tahun.
 3. Analisis Berdasarkan Provinsi
 Top 10 Provinsi dengan Transaksi Tertinggi
 Top 10 Provinsi dengan Nett Sales Tertinggi
