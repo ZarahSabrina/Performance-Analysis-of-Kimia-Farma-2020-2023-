@@ -21,11 +21,11 @@ Top 10 Provinsi dengan Nett Sales Tertinggi
 Top 3 produk berdasarkan profitabilitas.
 
 ## Teknologi yang Digunakan
-Google Big Query (untuk eksplorasi data)
-Google Data Studio (untuk visualisasi)
+1. Google Big Query (untuk eksplorasi data)
+2. Google Data Studio (untuk visualisasi)
 
 ## Cara Menjalankan Analisis
-Pastikan memiliki dataset transaksi Kimia Farma (tidak disertakan di repo ini karena alasan privasi).
-Gunakan Jupyter Notebook atau Google Colab untuk eksplorasi data.
-Jalankan skrip analisis untuk mendapatkan insight yang lebih mendalam.
-Dashboard dapat diakses melalui file visualisasi atau dipublikasikan melalui Google Data Studio.
+1. Pastikan memiliki dataset transaksi Kimia Farma (tidak disertakan di repository ini karena alasan privasi).
+2. Gunakan Google Big Query untuk eksplorasi data.
+3. Jalankan skrip analisis untuk mendapatkan insight yang lebih mendalam.
+4. Dashboard dapat diakses melalui file visualisasi atau dipublikasikan melalui Google Data Studio.
