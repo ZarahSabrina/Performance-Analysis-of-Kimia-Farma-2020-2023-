@@ -1,7 +1,7 @@
 # Performance Analysis of Kimia Farma 2020-2023
 
 ## Objective
-membantu dalam pengambilan keputusan bisnis yang berbasis data untuk meningkatkan efisiensi operasional dan profitabilitas Kimia Farma
+Membantu dalam pengambilan keputusan bisnis yang berbasis data untuk meningkatkan efisiensi operasional dan profitabilitas Kimia Farma
 
 ## Analisis yang Dilakukan
 1. Analisis Transaksi dan Penjualan
