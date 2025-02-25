@@ -5,20 +5,31 @@ membantu dalam pengambilan keputusan bisnis yang berbasis data untuk meningkatka
 
 ## Analisis yang Dilakukan
 1. Analisis Transaksi dan Penjualan
+   
 a. Total transaksi: 672.458
+
 b. Total pendapatan bersih (nett sales): 347,0 M
+
 c. Total profit bersih (nett profit): 98,5 M
+
 d. Rating rata-rata cabang: 4,45
+
 2. Tren Pendapatan 2020-2023
+   
    Visualisasi menunjukkan perubahan nett profit dari tahun ke tahun.
-3. Analisis Berdasarkan Provinsi
-Top 10 Provinsi dengan Transaksi Tertinggi
-Top 10 Provinsi dengan Nett Sales Tertinggi
-4. Distribusi Total Profit di Seluruh Indonesia
-5. Analisis Cabang dan Rating
-6. Cabang dengan rating tertinggi tetapi memiliki transaksi rendah.
-7. Analisis Produk
-Top 3 produk berdasarkan profitabilitas.
+   
+4. Analisis Berdasarkan Provinsi
+a. Top 10 Provinsi dengan Transaksi Tertinggi
+
+b. Top 10 Provinsi dengan Nett Sales Tertinggi
+
+5. Distribusi Total Profit di Seluruh Indonesia
+   
+7. Analisis Cabang dan Rating
+   Cabang dengan rating tertinggi tetapi memiliki transaksi rendah.
+   
+8. Analisis Produk
+   Top 3 produk berdasarkan profitabilitas.
 
 ## Tools yang Digunakan
 1. Google Big Query (untuk eksplorasi data)
