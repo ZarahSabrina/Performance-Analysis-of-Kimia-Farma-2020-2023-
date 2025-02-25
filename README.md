@@ -23,7 +23,7 @@ Top 10 Provinsi dengan Nett Sales Tertinggi
 7. Analisis Produk
 Top 3 produk berdasarkan profitabilitas.
 
-## Teknologi yang Digunakan
+## Tools yang Digunakan
 1. Google Big Query (untuk eksplorasi data)
 2. Google Data Studio (untuk visualisasi)
 
