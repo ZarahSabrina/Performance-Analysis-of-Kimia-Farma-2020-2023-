@@ -1,6 +1,9 @@
-# Performance-Analysis-of-Kimia-Farma-2020-2023-Kimia Farma Sales & Performance Analytics (2020-2023)
+# Performance Analysis of Kimia Farma 2020-2023
+
 Repository ini berisi analisis data transaksi Kimia Farma dari tahun 2020 hingga 2023. Analisis ini mencakup eksplorasi data transaksi, profitabilitas, tren penjualan, dan evaluasi performa cabang serta produk yang dijual.
 
+## Objective
+membantu dalam pengambilan keputusan bisnis yang berbasis data untuk meningkatkan efisiensi operasional dan profitabilitas Kimia Farma
 
 ## Analisis yang Dilakukan
 1. Analisis Transaksi dan Penjualan
